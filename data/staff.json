@@ -1,0 +1,5 @@
+[
+  {"id":"rico","name":"Rico Manalo","initials":"RM","role":"Lead Detailer","since":2021,"bio":"Started Clearcoat's paint-care work and trains every new detailer on safe washing.","days":[1,2,3,4,5,6],"services":["express-wash","wash-vacuum","engine-bay","glass-care","wax-polish","interior-deep","full-detail","moto-wash"]},
+  {"id":"ana","name":"Ana Lumbay","initials":"AL","role":"Interior Specialist","since":2022,"bio":"Handles shampoo, extraction and leather care. Known for spotless door jambs.","days":[0,2,3,4,5,6],"services":["express-wash","wash-vacuum","interior-deep","full-detail"]},
+  {"id":"dexter","name":"Dexter Pabillo","initials":"DP","role":"Wash & Engine Bay Tech","since":2023,"bio":"Runs the wash bays and engine-bay work. Also our motorcycle guy.","days":[0,1,3,4,5,6],"services":["express-wash","wash-vacuum","engine-bay","glass-care","moto-wash"]}
+]

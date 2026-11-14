@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /storage/
+Disallow: /data/
+Disallow: /confirmation.php
+Disallow: /ics.php
+
+Sitemap: https://www.example.com/sitemap.xml

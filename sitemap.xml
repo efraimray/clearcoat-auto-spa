@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.example.com/</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/services.php</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/book.php</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/about.php</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/faq.php</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/contact.php</loc><lastmod>2026-10-30</lastmod></url>
+  <url><loc>https://www.example.com/privacy.php</loc><lastmod>2026-10-30</lastmod></url>
+</urlset>

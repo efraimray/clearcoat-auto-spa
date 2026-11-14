@@ -1,0 +1,13 @@
+# Live data written by the site (never commit customer details)
+storage/*
+!storage/.htaccess
+!storage/.gitkeep
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+*.zip

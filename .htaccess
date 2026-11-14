@@ -1,0 +1,14 @@
+# Clearcoat Auto Spa - Apache settings (shared hosting / cPanel)
+Options -Indexes
+ErrorDocument 404 /404.php
+DirectoryIndex index.php index.html
+
+# Never serve stored bookings, messages, raw data, tools or docs.
+RedirectMatch 404 ^/(storage|data|tools|inc)(/|$)
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  <FilesMatch "\.(woff2|svg|css|js|jpg)$">
+    Header set Cache-Control "public, max-age=2592000"
+  </FilesMatch>
+</IfModule>

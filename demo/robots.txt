@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://efraimray.github.io/clearcoat-auto-spa/demo/sitemap.xml

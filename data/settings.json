@@ -1,0 +1,54 @@
+{
+  "business": {
+    "name": "Clearcoat Auto Spa",
+    "tagline": "Car wash and detailing in Valencia City",
+    "phone": "0900 123 4567",
+    "phone_e164": "+639001234567",
+    "email": "hello@clearcoat.example",
+    "street": "Sayre Highway, Purok 6, Poblacion",
+    "city": "Valencia City",
+    "province": "Bukidnon",
+    "postal": "8709",
+    "country": "PH",
+    "map_url": "https://www.google.com/maps/search/?api=1&query=Poblacion%2C+Valencia+City%2C+Bukidnon",
+    "messenger_url": "#",
+    "facebook_url": "#",
+    "instagram_url": "#",
+    "tiktok_url": "#",
+    "price_range": "₱120–₱5,200"
+  },
+  "timezone": "Asia/Manila",
+  "utc_offset_minutes": 480,
+  "slot_step": 30,
+  "lead_minutes": 60,
+  "days_ahead": 21,
+  "hours": {
+    "0": ["08:00", "14:00"],
+    "1": ["08:00", "18:00"],
+    "2": ["08:00", "18:00"],
+    "3": ["08:00", "18:00"],
+    "4": ["08:00", "18:00"],
+    "5": ["08:00", "18:00"],
+    "6": ["08:00", "18:00"]
+  },
+  "blocked_dates": {
+    "2026-11-01": "All Saints' Day",
+    "2026-11-02": "All Souls' Day",
+    "2026-11-30": "Bonifacio Day",
+    "2026-12-08": "Feast of the Immaculate Conception",
+    "2026-12-24": "Christmas Eve",
+    "2026-12-25": "Christmas Day",
+    "2026-12-30": "Rizal Day",
+    "2026-12-31": "New Year's Eve",
+    "2027-01-01": "New Year's Day"
+  },
+  "vehicles": {
+    "sedan": "Sedan / Hatchback",
+    "suv": "SUV / Pickup / AUV",
+    "van": "Van / Large",
+    "motorcycle": "Motorcycle / Scooter"
+  },
+  "demo_busy": true,
+  "notify_email": "",
+  "base_url": "https://www.example.com/"
+}
